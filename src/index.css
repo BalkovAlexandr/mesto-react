@@ -37,6 +37,8 @@
 
 @import './blocks/element/__like-button/_active/element__like-button_active.css';
 @import './blocks/element/__delete-button/element__delete-button.css';
+@import './blocks/element/__delete-button/_hidden/element__delete-button_hidden.css';
+@import './blocks/element/__delete-button/_visible/element__delete-button_visible.css';
 
 @import './blocks/popup/__photo/popup__photo.css';
 @import './blocks/popup/__photo-title/popup_photo-title.css';
@@ -59,12 +61,3 @@
 @import './blocks/profile/__change-btn/profile__change-btn.css';
 @import './blocks/profile/__pic/profile__pic.css';
 @import './blocks/popup/__container/_type/popup__container_type_change-avatar.css';
-
-
-
-
-
-
-
-
-
